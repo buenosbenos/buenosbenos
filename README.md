@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @buenosbenos
 - 👀 
-- 🌱 I’m currently learning PHP SQL and JS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PHP plain, Laravel SQL and JS
+- 💞️ I’m looking to collaborate on easy projects or evrything with a great mentor ;)
 - 📫 How to reach me? Just write a dm. 
 
 <!---
