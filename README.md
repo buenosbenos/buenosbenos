@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @buenosbenos
 - 👀 
-- 🌱 I’m currently learning PHP plain, Laravel SQL and JS
-- 💞️ I’m looking to collaborate on easy projects or evrything with a great mentor ;)
+- 🌱 I’m currently learning standart PHP, Laravel SQL and JS in general. I try to Focus on PHP for the next Months so i can get good at it. 
+- Next step schould be getting better at JS or CSS dont know where i should Focus ^^
+- 💞️ I’m looking to get better in WebDev so I can Focus on my Job ;)
 - 📫 How to reach me? Just write a dm. 
 
 <!---
