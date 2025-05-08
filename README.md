@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @buenosbenos
 - 👀 
 - 🌱 I’m currently learning standart PHP, Laravel SQL and JS in general. I try to Focus on PHP for the next Months &#10004; so i can get good at it.
-- next -> node.js 
-^
-- 💞️ I’m looking to get better in WebDev so I can focus on my Job ;)
 - 📫 How to reach me? Just write a dm. 
 
 <!---
